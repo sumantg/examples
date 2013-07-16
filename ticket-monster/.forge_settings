@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>"/rest"</rootpath>
+<rest>
+<applicationclass>
+<package>au.com.redback.tst.scm.rest</package>
+<name>E:\/dev/git/examples/ticket-monster/src/main/java/au/com/redback/tst/scm/rest/JaxRsActivator.java</name>
+</applicationclass>
+</rest>
+</configuration>
